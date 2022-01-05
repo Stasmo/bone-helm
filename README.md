@@ -1,4 +1,9 @@
-# my-app
+# Bone Helm
+
+The code for the bone helmet that I made for a halloween costume.
+
+![A beastly looking bone helmet with sparkling rainbow colour LEDs embedded in it.](helm2.gif)
+
 
 ## Project setup
 ```
