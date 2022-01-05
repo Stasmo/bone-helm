@@ -1,0 +1,9 @@
+must forward 192.168.1.200 5037 to 127.0.0.1 on windows using
+```
+netsh interface portproxy add v4tov4 listenport=5037 listenaddress=192.168.1.200 connectport=5037 connectaddress=127.0.0.1
+```
+
+Must forward 192.168.1.200:5556 to WSL private IP
+
+Manually sign apks by running ./sign-apks
+

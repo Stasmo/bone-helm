@@ -1,0 +1,1 @@
+java -jar uber-apk-signer.jar --apks /home/stasmo/workspace/cordova/android-test-project/my-app/src-cordova/platforms/android/app/build/outputs/apk/release/
